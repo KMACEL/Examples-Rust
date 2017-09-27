@@ -1,5 +1,8 @@
 # Examples-Rust
 Examples Rust
 
-# Library:
+## Library:
 >**https://crates.io/**
+
+## Book
+<**https://doc.rust-lang.org/book/first-edition/**
