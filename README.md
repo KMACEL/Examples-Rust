@@ -9,6 +9,7 @@ Examples Rust
 
 ## Install Rust
 > curl https://sh.rustup.rs -sSf | sh
+
 > Select **"1"**
 
 ## Add Path
