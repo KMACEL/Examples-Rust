@@ -1,7 +1,7 @@
 For use Cargo :
    
    First Step : (Create Project)
-      >>mkdir src
+      >> mkdir src
       >cd src
       >atom .
       >write code and save
